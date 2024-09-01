@@ -34,8 +34,15 @@ public class first_demo {
 
 }
 ```
-
 ## Q5. Define Variables in java. Explain different scope of variable.
+**
+In Java, a variable is a container that holds data that can be used and manipulated within a program. Each variable has a data type, which defines the type of data it can store.
+
+## Different Scopes of Variables in Java
+### Local Variables
+Variables declared inside a method, constructor, or block. They are accessible only within the method, constructor, or block where they are declared. They are created when the method or block is entered and destroyed when it exits.
+**
+
 ## Q6. Define data types in java.
 ## Q7. What is type casting in java?
 ## Q8. Write a program to add two number by taking input from user.
